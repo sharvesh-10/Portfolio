@@ -247,7 +247,7 @@
 
 .items .icons {
 	position: absolute;
-    width: 90px;
+    width: 70px;
     height: 40px;
     left: 50%;
     top: 50%;
@@ -304,7 +304,7 @@
 }
 
 .items .item:hover .projectLink {
-	right: 0px;
+    right: 0px;
 }
 
 
@@ -318,3 +318,4 @@
 
 .items {
 	padding: 0;
+}
